@@ -1,0 +1,15 @@
+{
+  "name": "phaserMap",
+  "version": "1.0.0",
+  "main": "index.htm",
+  "author": "psilbad@gmail.com",
+  "license": "MIT",
+  "scripts": {
+    "start": "http-server ./app -i -o"
+  },
+  "dependencies": {
+    "http-server": "^0.11.1",
+    "jquery": "^3.3.1",
+    "phaser": "3.11.0"
+  }
+}
